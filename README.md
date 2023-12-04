@@ -1,8 +1,8 @@
-👩‍💻 Software Architect\n
-🖥️ Media Computer Scientist\n
-🏳️‍🌈🏳️‍⚧️ Queer & Proud\n
-🌱 Compassionate for all beings\n
-🎶 Music lover\n
+- 👩‍💻 Software Architect
+- 🖥️ Media Computer Scientist
+- 🏳️‍🌈🏳️‍⚧️ Queer & Proud
+- 🌱 Compassionate for all beings
+- 🎶 Music lover
 
 <!---
 NetsphereArchitect/NetsphereArchitect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
