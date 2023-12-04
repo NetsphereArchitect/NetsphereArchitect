@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NetsphereArchitect
-- 👀 I’m interested in Music and COding
-- 🌱 I’m currently learning Digital Music Production
-- 💞️ I’m looking to collaborate on anything related to Music and Coding
-- 📫 How to reach me -> https://linktr.ee/dkmplt
+👩‍💻 Software Architect
+🖥️ Media Computer Scientist
+🏳️‍🌈🏳️‍⚧️ Queer & Proud
+🌱 Compassionate for all beings
+🎶 Music lover
 
 <!---
 NetsphereArchitect/NetsphereArchitect is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
